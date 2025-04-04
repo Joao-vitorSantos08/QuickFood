@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'Gilroy';
+    src: url('Caminho/Gilroy.ttf') format('ttf');         
+}
+
+body {
+    font-family: 'Gilroy', sans-serif; 
+}
+
+:root{
+    --color-primary: #00A000;
+    --color-black: #000001;
+    --color-white: #FFFFFF;
+    --color-grey: #999999;
+    --color-BG-Overlay: #FAFAFA;
+    
+    --font: "Gilroy";
+}
