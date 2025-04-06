@@ -35,6 +35,61 @@ header{
     border-radius: 10px;
     color: var(--color-primary);
     border: 2px solid var(--color-primary);
+    cursor: pointer;
 }
 
 /*----- Fim Header -----*/
+
+/*------ main ------*/
+
+main{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    margin-top: 100px;
+
+}
+
+.main-container h1{
+    font-size: 60px;
+    width: 563px;
+    
+}
+
+.main-container span{
+    color: var(--color-primary);
+}
+
+.main-container p{
+    font-size: 18px;
+    width: 503px;
+    line-height: 1.5;
+    
+}
+
+.header-button{
+    display: flex;
+    gap: 24px;
+}
+
+
+.order-now{
+    padding: 16px 32px;
+    border-radius: 10px;
+    border: none;
+    color: var(--color-white);
+    background-color: var(--color-primary);
+    cursor: pointer;    
+}
+
+.explore-products{
+    padding: 16px 32px;
+    border-radius: 10px;
+    color: var(--color-primary);
+    background-color: transparent;
+    border: 2px solid var(--color-primary);
+    cursor: pointer;
+}
+
+/*------ Fim main ------*/
+
