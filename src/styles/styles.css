@@ -47,8 +47,11 @@ main{
     justify-content:center;
     align-items: center;
     margin-top: 100px;
+    
 
 }
+
+
 
 .main-container h1{
     font-size: 60px;
@@ -92,4 +95,38 @@ main{
 }
 
 /*------ Fim main ------*/
+
+
+/*------  Why Choose Us ------*/
+
+.why-choose-us{
+    text-align: center;
+    background-color: var(--color-BG-Overlay);
+    margin-top: 102px;
+}
+
+.why-choose-us h1{
+    font-size: 48px;
+    padding-top: 100px;
+}
+
+.why-choose-us p{
+    font-size: 18px;
+}
+
+.section-container{
+    display: flex;
+    justify-content: center;
+    gap: 112px;
+}
+
+.choose-cards p{
+    width: 275.3px;
+}
+
+.customestatistics{
+    margin-top: 60px;
+}
+
+/*------  Fim Why Choose Us ------*/
 
