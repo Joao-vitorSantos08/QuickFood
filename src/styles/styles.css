@@ -118,6 +118,7 @@ main{
     display: flex;
     justify-content: center;
     gap: 112px;
+    margin-bottom: 160px;
 }
 
 .choose-cards p{
@@ -126,7 +127,50 @@ main{
 
 .customestatistics{
     margin-top: 60px;
+    margin-bottom: 100px;
 }
 
 /*------  Fim Why Choose Us ------*/
+
+/*----- special dishes -----*/
+
+/*----- special-dishes -----*/
+
+
+.special-dishes h1{
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 60px;
+}
+
+.special-cotainer {
+    justify-content: center;
+    display: flex;
+    gap: 20px;
+    text-align: center;
+    margin-top: 60px;
+}
+
+.special-cards{
+    width: 400px;
+    margin-bottom: 100px;
+}
+
+.special-cards p{
+    width: 279px;
+    margin:  0 auto;
+    font-size: 18px;
+}
+
+.cards-button button{
+    padding: 16px 140px;
+    background-color: var(--color-primary);
+    color: var(--color-white);
+    border-radius: 8px;
+    border: none;
+    margin-top: 32px;
+    cursor: pointer;
+}
+/*----- Fim special dishes -----*/
+
 
