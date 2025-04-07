@@ -47,6 +47,7 @@ main{
     justify-content:center;
     align-items: center;
     margin-top: 100px;
+    gap: 124px;
     
 
 }
@@ -172,5 +173,57 @@ main{
     cursor: pointer;
 }
 /*----- Fim special dishes -----*/
+
+/*----- our clients  -----*/
+
+.our-clients{
+    text-align: center;
+    margin-top: 60px;
+    background-color: var(--color-BG-Overlay);
+    padding: 100px;
+}
+
+.our-clients p{
+    font-size: 18px;
+}
+
+.our-clients-container{
+    display: flex;
+    gap: 21px;
+    justify-content: space-around;
+    margin-top: 60px;
+}
+
+.our-clients-cards{
+    justify-content: center;
+    width: 329px;
+    background-color: rgba(255, 255, 255);
+    padding: 40px;
+    border-radius: 16px;
+}
+
+.our-clients-cards p{
+    font-size: 18px;
+    line-height: 1.5;
+}
+
+.Guy-Hawkins:hover{
+    transform: translateY(-10px);
+    transition: 0.5s;
+}
+
+.Esther-Howard:hover{
+    transform: translateY(-10px);
+    transition: 0.5s;
+}
+
+.Jane-Cooper:hover{
+    transform: translateY(-10px);
+    transition: 0.5s;
+}
+
+/*----- Fim our clients  -----*/
+
+
 
 
