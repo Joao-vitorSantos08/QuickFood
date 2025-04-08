@@ -121,6 +121,8 @@ main{
     justify-content: center;
     gap: 112px;
     margin-bottom: 160px;
+    margin-left: 100px;
+
 }
 
 .choose-cards p{
@@ -270,6 +272,56 @@ main{
 
 
 /*----- Fim About Us -----*/
+
+/*-----   formulário -----*/
+
+.Newsteller{
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+.formulario{
+    display: flex;
+    justify-content: center
+}
+
+.formulario input{
+    padding: 24px ;
+    padding-right: 300px;
+    border-radius: 8px 0px 0px 8px;
+    border-right: 0px;
+    
+}
+
+.formulario-subscribe{
+    display: flex;
+}
+
+.formulario input::placeholder{
+    color: var(--color-black);
+}
+
+.formulario button{
+    padding: 16px 32px;
+    background-color: var(--color-primary);
+    border-radius: 8px;
+    border: none;
+    color: var(--color-white);
+    
+}
+
+.button{
+    padding: 8px;        
+    border: 1px solid #000;
+    border-left: none;
+    border-radius: 0px 8px 8px 0px;
+    
+}
+
+.Subscribe{
+    cursor: pointer;
+}
+/*----- Fim formulário -----*/
 
 
 
