@@ -3,16 +3,36 @@
     src: url('Caminho/Gilroy.ttf') format('ttf');         
 }
 
+:root{
+    --color-primary: #00A000;
+
+    --color-black: #000001;
+
+    --color-grey: #000000;
+
+    --color-lightgray: #999999;
+
+    --color-bg-overlay: #FAFAFA;
+
+    --color-white: #FFFFFF;
+}
+
+@font-face {
+    font-family: 'Gilroy';
+    src: url('Caminho/Gilroy.ttf') format('ttf');         
+}
+
 body {
     font-family: 'Gilroy', sans-serif; 
 }
 
-:root{
-    --color-primary: #00A000;
-    --color-black: #000001;
-    --color-white: #FFFFFF;
-    --color-grey: #999999;
-    --color-BG-Overlay: #FAFAFA;
-    
-    --font: "Gilroy";
+h2{
+    font-size: 48px;
+    color: var(--color-black);
+    font-weight: 800;
+}
+
+p{
+    font-size: 18px;
+    color: rgba(0, 0, 1, 0.6);
 }
