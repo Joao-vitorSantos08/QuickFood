@@ -44,11 +44,10 @@ header{
 
 main{
     display: flex;
-    justify-content:center;
     align-items: center;
     margin-top: 100px;
-    gap: 124px;
-    
+    gap: 10px;
+    margin-left: 100px;
 
 }
 
@@ -133,7 +132,6 @@ main{
 
 /*------  Fim Why Choose Us ------*/
 
-/*----- special dishes -----*/
 
 /*----- special-dishes -----*/
 
@@ -190,16 +188,17 @@ main{
 .our-clients-container{
     display: flex;
     gap: 21px;
-    justify-content: space-around;
+    justify-content: center;
     margin-top: 60px;
 }
 
 .our-clients-cards{
     justify-content: center;
-    width: 329px;
+    width: 300px;
     background-color: rgba(255, 255, 255);
     padding: 40px;
     border-radius: 16px;
+    
 }
 
 .our-clients-cards p{
@@ -223,6 +222,39 @@ main{
 }
 
 /*----- Fim our clients  -----*/
+
+/*----- About Us -----*/
+
+.About-Us{
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+    padding: 100px;
+}
+
+.About-Us h1{
+    font-size: 40px;
+    margin-bottom: 24px;
+}
+
+.About-Us p{
+    width: 558px;
+    font-size: 18px;
+    line-height: 1.5;
+    margin-bottom: 24px;
+}
+
+.About-Us button{
+    color: var(--color-white);
+    padding: 16px 32px;
+    background-color: var(--color-primary);
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+
+/*----- Fim About Us -----*/
 
 
 
