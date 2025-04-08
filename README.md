@@ -1,9 +1,9 @@
 <h1 align="center"> 
-	  🚀 QuickFood - Em Andamento ✅🚀
+	  QuickFood - Em Andamento
 </h1>
 
 <!-- MODELO MENU DE NAVEGAÇÃO -->
-<p align="center">
+<!-- <p align="center">
  <a href="#-Descrição-do-entregável">Descrição do Entregável</a> •
  <a href="#-sobre-o-projeto">Sobre</a> •
  <a href="#-funcionalidades">Funcionalidades</a> •
@@ -15,7 +15,7 @@
 </p>
 
 <!-- MODELO DE DESCRIÇÃO -->
-## 📄 Descrição do entregável
+<!-- ## 📄 Descrição do entregável
 
 - src
     - assets
@@ -25,26 +25,26 @@
 
 - index.html
   
----
+--- -->
 
 <!-- MODELO DESCRIÇÃO SOBRE O PROJETO: -->
-## 💻 Sobre o projeto
+<!-- ## 💻 Sobre o projeto
 
 <!-- EXPLICA O MOTIVO DO PROJETO -->
-Nexcent Esse é o Meu primeiro Projeto do curso Web designer front-end que desenvolvi a partir de um protótipo no figma
+<!-- Desenvolvi esse projeto a partir de um protótipo do Figma para testar minhas habilidades com HTML, CSS -->
 
 <!-- LINHA DE DIVISÃO: -->
 ---
 
 <!-- EXEMPLO DE LAYOUT: -->
-## 🎨 Layout
+<!---## 🎨 Layout
 
 ![Mobile3](https://github.com/Joao-vitorSantos08/Nexcent/blob/main/src/assets/images/Thumbnail.png)
 
 ---
 
 <!-- MODELO DE COMO EXECUTAR O PROJETO -->
-## 🚀 Como executar o projeto
+<!-- ## 🚀 Como executar o projeto
 
 1 - Baixar o Projeto <br>
 2 - Abrir em um editor de código<br>
@@ -53,7 +53,7 @@ Nexcent Esse é o Meu primeiro Projeto do curso Web designer front-end que desen
 <!-- ---------------------------------------------------------------------- -->
 
 <!-- MODELO DE PRÉ REQUISITOS -->
-### Pré-requisitos
+<!--### Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas um editor de código:
 
@@ -63,17 +63,17 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 
 
 <!-- MODELO DE TECNOLOGIAS -->
-## 🛠 Tecnologias
+<!-- ## 🛠 Tecnologias
 
 Ferramentas:
 #### Desenvolvimento (HTML)
 
----
-
+--- 
+-->
 <!-- ---------------------------------------------------------------------- -->
 
 <!-- MODELO DE COMO CONTRIBUIR PARA O PROJETO -->
-## 💪 Como contribuir para o projeto
+ <!-- ## 💪 Como contribuir para o projeto
 
 1. Faça um **fork** do projeto.
 2. Crie uma nova branch com as suas alterações: `git checkout -b my-feature`
@@ -82,15 +82,15 @@ Ferramentas:
 > Caso tenha alguma dúvida confira este [guia de como contribuir no GitHub](./CONTRIBUTING.md)
 
 ---
-
+-->
 <!-- ---------------------------------------------------------------------- -->
 
 <!-- MODELO DE AUTOR-->
-## 🦸 Autor
+<!-- ## 🦸 Autor
 
 <a href="https://br.linkedin.com/in/Joao-vitorSantos08">
 João Vitor Santos souza</a>
- <br />
+ <br /> -->
  
 <!--[![Gmail Badge](https://img.shields.io/badge/-mthalvarez2005@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mthalvarez2005@gmail.com)](mailto:mthalvarez2005@gmail.com) -->
 
@@ -99,11 +99,11 @@ João Vitor Santos souza</a>
 <!-- ---------------------------------------------------------------------- -->
 
 <!-- MODELO DE LICENÇA -->
-## 📝 Licença
+<!-- ## 📝 Licença 
 
 Este projeto esta sobe a licença [MIT](./LICENSE).
 
-Feito por João Vitor Santos Souza👋🏽
+Feito por João Vitor Santos Souza👋🏽 -->
 
 
 
