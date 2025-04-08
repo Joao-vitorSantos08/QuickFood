@@ -27,6 +27,7 @@ header{
     display: flex;
     align-items: center;
     gap: 16px;
+    cursor: pointer;
 }
 
 .header-content button{
@@ -48,6 +49,7 @@ main{
     margin-top: 100px;
     gap: 10px;
     margin-left: 100px;
+    justify-content: space-around;
 
 }
 
@@ -123,11 +125,17 @@ main{
 
 .choose-cards p{
     width: 275.3px;
+    margin:  0 auto;
 }
 
 .customestatistics{
     margin-top: 60px;
     margin-bottom: 100px;
+    
+}
+
+.customestatistics p{
+    margin:  0 auto;
 }
 
 /*------  Fim Why Choose Us ------*/
@@ -177,7 +185,7 @@ main{
 .our-clients{
     text-align: center;
     margin-top: 60px;
-    background-color: var(--color-BG-Overlay);
+    background-color: var( --color-bg-overlay);
     padding: 100px;
 }
 
@@ -194,21 +202,28 @@ main{
 
 .our-clients-cards{
     justify-content: center;
-    width: 300px;
-    background-color: rgba(255, 255, 255);
+    width: 400px;
+    background-color: var(--color-white);
     padding: 40px;
     border-radius: 16px;
+    box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.1);
+
     
 }
 
 .our-clients-cards p{
     font-size: 18px;
+
+}
+
+.Guy-Hawkins{
     line-height: 1.5;
 }
 
 .Guy-Hawkins:hover{
     transform: translateY(-10px);
     transition: 0.5s;
+    
 }
 
 .Esther-Howard:hover{
@@ -228,7 +243,7 @@ main{
 .About-Us{
     display: flex;
     justify-content: center;
-    gap: 25px;
+    gap: 40px;
     padding: 100px;
 }
 
