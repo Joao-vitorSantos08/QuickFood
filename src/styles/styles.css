@@ -125,6 +125,10 @@ main{
 
 }
 
+.choose-cards h2{
+    font-size: 28px;
+}
+
 .choose-cards p{
     width: 275.3px;
     margin:  0 auto;
@@ -150,6 +154,7 @@ main{
     text-align: center;
     margin-top: 100px;
     margin-bottom: 60px;
+    font-size: 48px;
 }
 
 .special-cotainer {
@@ -164,6 +169,11 @@ main{
     width: 400px;
     margin-bottom: 100px;
 }
+
+.special-cards h2{
+    font-size: 28px;
+}
+
 
 .special-cards p{
     width: 279px;
@@ -190,6 +200,9 @@ main{
     background-color: var( --color-bg-overlay);
     padding: 100px;
 }
+.our-clients h1{
+    font-size: 48px;
+}
 
 .our-clients p{
     font-size: 18px;
@@ -211,6 +224,10 @@ main{
     box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.1);
 
     
+}
+
+.our-clients-cards h2{
+    font-size: 28px;
 }
 
 .our-clients-cards p{
@@ -322,6 +339,99 @@ main{
     cursor: pointer;
 }
 /*----- Fim formulário -----*/
+
+/*-----  Footer -----*/
+
+footer{
+    background-color: var(--color-primary);
+    margin-top: 60px;
+    padding: 100px;
+}
+
+.footer-container{
+    display: flex;
+    justify-content: center;
+}
+
+.socials-icons{
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    margin-top: 24px;
+}
+
+.Twitter{
+    transition: 0.5s;
+}
+
+.Twitter:hover{
+    transform: translateY(-10px);
+    transition: .7s;
+
+}
+
+
+.instagram{
+    transition: 0.5s;
+}
+
+.instagram:hover{
+    transform: translateY(-10px);
+
+}
+
+.Facebook{
+    transition: 0.5s;
+}
+
+.Facebook:hover{
+    transform: translateY(-10px);
+    
+    
+}
+
+
+
+.footer-content{
+    display: flex;
+    gap: 239px;
+    
+    text-align: start !important;
+}
+
+.footer-content h2{
+    color: var(--color-white);
+    font-size: 18px;
+}
+
+
+
+.nav-footer li{
+   list-style: none;
+     
+}
+
+.nav-footer a{
+    text-decoration: none;
+    color: var(--color-white);
+    line-height: 1.9;
+    width: 76px;    
+    text-align: start;
+
+}
+
+.nav-footer ul{
+    padding: 0;
+}
+
+.copyright{
+    text-align: center;
+}
+.copyright p{
+    color: var(--color-white);
+}
+
+/*----- Fim Footer -----*/
 
 
 
