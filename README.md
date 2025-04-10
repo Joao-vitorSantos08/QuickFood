@@ -60,7 +60,9 @@ Desenvolvi esse projeto a partir de um protótipo do Figma para testar minhas ha
  - ter instalado em sua máquina ferramentas um editor de código:
   (como Visual studio Code )
 
+### Ou Acesse por aqui
 
+https://joao-vitorsantos08.github.io/QuickFood/
 
 
 ---
